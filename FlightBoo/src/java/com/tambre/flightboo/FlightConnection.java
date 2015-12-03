@@ -1,6 +1,9 @@
 package com.tambre.flightboo;
 
 /**
+ * Holds the details of connection on a given route.
+ * 
+ *  e.g. AI001 (08:20) where 08:20 is the hour & minute the flight takes from origin.
  * It can be extended to add more properties to the connection. e.g. Operator
  * 
  * @author tambre

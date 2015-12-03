@@ -6,7 +6,9 @@ import java.util.HashSet;
 /**
  * Route is a link between 2 airports. Route can have one or more connections
  *  
- * BOM -> DEL 08:00 AI101
+ * BOM -> DEL
+ * 		connections:
+ * 				AI001 08:20
  * @author tambre
  *
  */
